@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidStudioTroubleshooting1</string>
+    <string name="test1">Test One</string>
 </resources>
